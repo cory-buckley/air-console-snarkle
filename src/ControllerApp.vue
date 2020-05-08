@@ -249,7 +249,7 @@ export default {
 }
 </script>
 
-<style scoped lang="scss">
+<style lang="scss">
 body {
   background: #3b3b3b;
 }
