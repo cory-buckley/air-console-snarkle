@@ -1,13 +1,13 @@
-# vue-airconsole
+# air-console-snarkle
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles, hot-reloads for development, and opens the AirConsole developer environment
 ```
-npm run serve
+npm run start
 ```
 
 ### Compiles and minifies for production
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### AirConsole Developer Resources
+See [AirConsole Developers Portal](https://developers.airconsole.com/#!/).
